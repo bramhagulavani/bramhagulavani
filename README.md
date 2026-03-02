@@ -51,50 +51,6 @@ print(me.motto())
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🏷️ Project | 🛠️ Tech Stack | 🌟 Highlights |
-|:---:|:---:|:---|
-| **🚗 ANPR System** | Python · OpenCV · Web Dashboard | Live camera vehicle tracking, real-time admin dashboard, report generation |
-| **🎓 LearnHub – AI LMS** | Next.js · TypeScript · MongoDB · OpenAI | Skill assessments, personalized roadmaps, integrated Job Portal |
-| **🏫 Department Portal** | PHP · MySQL · HTML · CSS · JS | Centralized academics, digital ID generation, department communication |
-
-</div>
-
----
-
-### 🚗 AI-Based Automatic Number Plate Recognition (ANPR)
-
-> **Mega Project** — Exhibited at DIPEX Technical Exhibition 🏅
-
-Built an AI-driven ANPR system to **automate vehicle entry/exit tracking** using live camera feeds and real-time plate detection. Designed a full web-based admin dashboard for monitoring, reporting, and secure data management.
-
-`Python` `OpenCV` `Image Processing` `Web Dashboard`
-
----
-
-### 🎓 LearnHub — AI-Powered LMS + Career Portal
-
-> Full-Stack Flagship Project
-
-A next-generation **Learning Management System** with an integrated Job Portal. Features AI-powered skill assessments, personalized learning roadmaps, and a recruiter-facing hiring pipeline — a complete **learn-to-employ ecosystem**.
-
-`Next.js` `TypeScript` `MongoDB` `OpenAI API` `Clerk Auth`
-
----
-
-### 🏫 Integrated Department Management Portal
-
-> Full-Stack Web Application
-
-Centralized platform for academic resources, user profiles, digital ID generation, and department-wide communication.
-
-`PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -174,15 +130,6 @@ Centralized platform for academic resources, user profiles, digital ID generatio
 
 ---
 
-## 💼 Internship Experience
-
-**💻 React Development Intern — iGAP Technologies**
-> Built responsive UIs and React-based applications using component-based architecture.
-
-**🌐 Software Development Intern — Maxgen Technologies**
-> Developed a Department Management System using PHP under professional mentorship.
-
----
 
 ## 🌱 Currently Learning
 
