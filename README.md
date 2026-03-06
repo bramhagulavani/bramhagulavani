@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bramha%20Vinayak%20Gulavani&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bramha%20Vinayak%20Gulavani&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20MERN-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=16&animation=fadeIn"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+AI+Systems+That+Matter+%F0%9F%A4%96;Full-Stack+Developer+%40+VIT+Pune+%F0%9F%8C%90;Diploma+in+IT+%E2%80%94+93.72%25+%F0%9F%8F%86;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
@@ -28,7 +28,7 @@
 class BramhaGulavani:
     def __init__(self):
         self.name       = "Bramha Vinayak Gulavani"
-        self.role       = "AI/ML Undergraduate | Full-Stack Developer"
+        self.role       = "AI/ML Undergraduate | MERN-Stack Developer"
         self.university = "Vishwakarma Institute of Technology, Pune"
         self.year       = "Direct Second Year (CSE AI/ML)"
         self.gpa        = "93.72% (Diploma in IT)"
@@ -136,7 +136,7 @@ print(me.motto())
 <div align="center">
 
 ![DSA](https://img.shields.io/badge/Advanced%20DSA-FF6B6B?style=flat-square&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-4ECDC4?style=flat-square&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/System%20Design-4ECDC4?style=flat-square&logoColor=white)
 ![AI Optimization](https://img.shields.io/badge/AI%20Model%20Optimization-A78BFA?style=flat-square&logoColor=white)
 ![Scalable Backend](https://img.shields.io/badge/Scalable%20Backends-F59E0B?style=flat-square&logoColor=white)
 
