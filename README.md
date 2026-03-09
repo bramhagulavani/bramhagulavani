@@ -136,7 +136,7 @@ print(me.motto())
 <div align="center">
 
 ![DSA](https://img.shields.io/badge/Advanced%20DSA-FF6B6B?style=flat-square&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/System%20Design-4ECDC4?style=flat-square&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-4ECDC4?style=flat-square&logoColor=white)
 ![AI Optimization](https://img.shields.io/badge/AI%20Model%20Optimization-A78BFA?style=flat-square&logoColor=white)
 ![Scalable Backend](https://img.shields.io/badge/Scalable%20Backends-F59E0B?style=flat-square&logoColor=white)
 
