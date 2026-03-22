@@ -122,7 +122,7 @@ print(me.motto())
 │  🎯  Core Committee & Project Area Head — ITSA Event            │
 │  💼  React Intern — iGAP Technologies                           │
 │  🌐  Software Dev Intern — Maxgen Technologies                  │
-│  📈  Academic: 93.72% Diploma | Sem 6: 94% | Sem 5: 93.44%     │
+│  📈  Academic: 93.72% Diploma | Sem 6: 94% | Current Sem PT: 9.3│
 └─────────────────────────────────────────────────────────────────┘
 ```
 
