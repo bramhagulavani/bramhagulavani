@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/VIT%20Pune-CSE%20AI%2FML-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-9.325-10B981?style=for-the-badge&logo=star&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-9.3%25-10B981?style=for-the-badge&logo=star&logoColor=white"/>
 <img src="https://img.shields.io/badge/Class%20Representative-👑%20CR-F59E0B?style=for-the-badge"/>
 
 <br/><br/>
