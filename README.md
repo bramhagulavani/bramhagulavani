@@ -4,30 +4,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:667eea,100:f093fb&height=230&section=header&text=Bramha%20Vinayak%20Gulavani&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=🤖%20AI%2FML%20Engineer%20·%20🌐%20Full-Stack%20Developer%20·%20&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com font=Fira+Code&weight=700&size=20&duration=3500&pause=900&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=55&lines=Building+Intelligent+AI+Systems+That+Scale+🔥;Crafting+Seamless+Full-Stack+Experiences+✨;Transforming+Ideas+into+Production-Ready+Solutions+💎" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+AI+Systems+That+Matter+%F0%9F%A4%96;Full-Stack+Developer+%40+VIT+Pune+%F0%9F%8C%90;Diploma+in+IT+%E2%80%94+93.72%25+%F0%9F%8F%86;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social Badges -->
-<a href="https://www.linkedin.com/in/bramha-vinayak-gulavani-31302a30b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C1117" />
+<a href="https://www.linkedin.com/in/bramha-vinayak-gulavani-31302a30b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:bramhagulavani@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C1117" />
-</a>
-<a href="https://github.com/bramhagulavani" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0C1117" />
-</a>
-
+<img src="https://img.shields.io/badge/VIT%20Pune-CSE%20AI%2FML-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-9.3%25-10B981?style=for-the-badge&logo=star&logoColor=white"/>
 <br/><br/>
-
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/VIT%20Pune-CSE%20AI%2FML-667eea?style=flat-square&labelColor=0C1117&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/CGPA-9.3%2F10-4ecdc4?style=flat-square&labelColor=0C1117" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=bramhagulavani&style=flat-square&color=667eea&labelColor=0C1117&label=Profile+Views" />
-
 </div>
 
 ---
@@ -76,7 +63,7 @@ class BramhaGulavani:
 | 🏅 Exhibition | DIPEX — ANPR Project Presenter |
 | 🎯 Committee | Project Area Head — ITSA Events |
 | 💼 Internship | React Intern @ iGAP Technologies |
-| 🌐 Internship | Software Dev @ Maxgen Technologies |
+| 🌐 Intern at | Software Dev @ Maxgen Technologies |
 | 📈 Diploma IT | 93.72% — Top Performer |
 | 🎖️ Semester 6 | 94% — Academic Excellence |
 | 🚀 Admission | Direct 2nd Year via Merit |
@@ -120,15 +107,6 @@ class BramhaGulavani:
 ![Clerk](https://img.shields.io/badge/Clerk%20Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
 </div>
-
-
-## 🎯 2026 Focus Areas
-
-![DSA](https://img.shields.io/badge/Advanced%20DSA-FF6B6B?style=flat-square)
-![AI Optimization](https://img.shields.io/badge/AI%20Optimization-667eea?style=flat-square)
-![Cloud](https://img.shields.io/badge/AWS%20Cloud-FFA500?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-4ECDC4?style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps-2E8B57?style=flat-square)
 
 ---
 
