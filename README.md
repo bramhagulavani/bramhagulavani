@@ -68,6 +68,7 @@ class BramhaGulavani:
             "🚀 Scalable Architectures",
             "🌐 Full-Stack Solutions"
         ]
+ ```
 <div align="center">
 💻 Languages & Frameworks
 <div> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> </div>
@@ -153,4 +154,4 @@ Looking to collaborate on AI/ML projects, full-stack solutions, or innovative id
 <div align="center"> <!-- Footer Animation --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:667eea&height=120&section=footer&reverseDirection=true"/> <!-- Profile Footer Quote -->
 Making an impact through intelligent technology, one line of code at a time. 💎
 
-<img src="https://img.shields.io/badge/Last%20Updated-March%202026-667eea?style=flat-square" alt="Last Updated"/> </div> ```
+<img src="https://img.shields.io/badge/Last%20Updated-March%202026-667eea?style=flat-square" alt="Last Updated"/> </div>
