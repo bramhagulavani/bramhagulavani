@@ -1,164 +1,156 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bramha%20Vinayak%20Gulavani&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20MERN-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=16&animation=fadeIn"/>
+<!-- Animated Premium Header -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:0f0c29&height=220&section=header&text=Bramha%20Vinayak%20Gulavani&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=🤖%20AI%2FML%20Engineer%20%7C%20🌐%20Full-Stack%20Developer%20%7C%20🚀%20Innovation%20Architect&descAlignY=58&descSize=18&animation=fadeIn&rotate=-3">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:0f0c29&height=220&section=header&text=Bramha%20Vinayak%20Gulavani&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=🤖%20AI%2FML%20Engineer%20%7C%20🌐%20Full-Stack%20Developer%20%7C%20🚀%20Innovation%20Architect&descAlignY=58&descSize=18&animation=fadeIn&rotate=-3"/>
+</picture>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+AI+Systems+That+Matter+%F0%9F%A4%96;Full-Stack+Developer+%40+VIT+Pune+%F0%9F%8C%90;Diploma+in+IT+%E2%80%94+93.72%25+%F0%9F%8F%86;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Premium Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=800&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=Building+Intelligent+AI+Systems+That+Scale+🔥;Crafting+Seamless+Full-Stack+Experiences+✨;Transforming+Ideas+into+Production-Ready+Solutions+💎" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social Badges -->
-<a href="https://www.linkedin.com/in/bramha-vinayak-gulavani-31302a30b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/VIT%20Pune-CSE%20AI%2FML-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-9.3%25-10B981?style=for-the-badge&logo=star&logoColor=white"/>
-<img src="https://img.shields.io/badge/Class%20Representative-👑%20CR-F59E0B?style=for-the-badge"/>
+<!-- Premium Social & Status Badges -->
+<div>
+  <a href="https://www.linkedin.com/in/bramha-vinayak-gulavani-31302a30b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C1117" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bramhagulavani@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C1117" alt="Email" />
+  </a>
+  <a href="https://github.com/bramhagulavani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0C1117" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/VIT%20Pune-CSE%20AI%2FML-667eea?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0C1117" alt="University"/>
+  <img src="https://img.shields.io/badge/CGPA-9.3%2F10-667eea?style=for-the-badge&logo=star&logoColor=white&labelColor=0C1117" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/Class%20Rep-👑-f093fb?style=for-the-badge&labelColor=0C1117" alt="CR"/>
+</div>
 
-<br/><br/>
+<br/>
+
+<!-- Visitor Badge -->
+<img src="https://komarev.com/ghpvc/?username=bramhagulavani&style=for-the-badge&color=667eea&labelColor=0C1117" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 Who I Am
 
+<table>
+  <tr>
+    <td width="50%">
+      
 ```python
 class BramhaGulavani:
     def __init__(self):
-        self.name       = "Bramha Vinayak Gulavani"
-        self.role       = "AI/ML Undergraduate | MERN-Stack Developer"
-        self.university = "Vishwakarma Institute of Technology, Pune"
-        self.year       = "Direct Second Year (CSE AI/ML)"
-        self.gpa        = "93.72% (Diploma in IT)"
-        self.cr         = True  # 👑 Class Representative
-
-    def current_focus(self):
+        self.name = "Bramha Vinayak Gulavani"
+        self.role = "AI/ML Engineer & Full-Stack Developer"
+        self.university = "VIT Pune - CSE (AI/ML)"
+        self.academic = {
+            "diploma": "93.72%",
+            "current_cgpa": 9.3,
+            "rank": "Top Performer"
+        }
+        self.leadership = True  # 👑 CR
+        
+    def mission(self):
+        return """
+        Building AI systems that solve real-world 
+        problems at scale with beautiful UX.
+        """
+    
+    def interests(self):
         return [
-            "🤖 AI & Computer Vision Systems",
-            "🌐 Scalable Full-Stack Architectures",
-            "📊 Advanced DSA & System Design",
-            "🧬 AI Model Optimization"
+            "🤖 Computer Vision & NLP",
+            "🔬 ML Model Optimization",
+            "🚀 Scalable Architectures",
+            "🌐 Full-Stack Solutions"
         ]
-
-    def motto(self):
-        return "Build systems that solve real-world problems through intelligent technology."
-
-me = BramhaGulavani()
-print(me.motto())
-```
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
+💻 Languages & Frameworks
+<div> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> </div>
+🌐 Frontend Ecosystem
+<div> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer"/> <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn UI"/> </div>
+⚙️ Backend & APIs
+<div> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=rest&logoColor=white" alt="REST API"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/> </div>
+🗄️ Databases & Storage
+<div> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/> </div>
+🤖 AI & ML Stack
+<div> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/> </div>
+🔧 Tools & DevOps
+<div> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/> </div>
+🔐 Authentication & Security
+<div> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/> <img src="https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=oauth&logoColor=white" alt="OAuth"/> </div> </div>
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🌐 Frontend & Backend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🗄️ Databases & AI
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk%20Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bramhagulavani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramhagulavani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div> -->
-
+📊 Performance Metrics
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bramhagulavani&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
-</div>
+GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=bramhagulavani&theme=transparent&hide_border=true&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=667eea&date_format=j%20M%5B%20Y%5D)
 
+Contribution Overview
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bramhagulavani&theme=github_dark)
+
+Language Distribution
+<div> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bramhagulavani&theme=github_dark" alt="Repos per Language"/> &nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bramhagulavani&theme=github_dark" alt="Most Commit Language"/> </div> </div>
+🚀 Featured Projects
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bramhagulavani&theme=tokyonight" width="100%"/>
+Project	Description	Tech Stack	Status
+🎥 ANPR System	Automatic Number Plate Recognition using YOLOv8	Python, OpenCV, Deep Learning	✅ Complete
+💡 AI Solution Platform	SaaS platform for AI model deployment	Next.js, TypeScript, MongoDB	🔄 Active
+🌐 Full-Stack Web App	Production-grade MERN application	React, Node.js, MongoDB, TailwindCSS	✅ Deployed
+📱 Mobile Integration	Cross-platform mobile solutions	React Native, Firebase	🔄 In Progress
 </div>
-
+🎯 Current Focus & Learning Path
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bramhagulavani&theme=tokyonight" height="150em"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bramhagulavani&theme=tokyonight" height="150em"/>
-</div>
-
----
-
-## 🏆 Achievements & Leadership
-
+Code
+┌─────────────────────────────────────────────────────────────────────┐
+│                    🚀 FOCUS AREAS 2026                              │
+├─────────────────────────────────────────────────────────────────────┤
+│  ✨ Advanced DSA & System Design for Scalability                    │
+│  🤖 Production-Grade AI/ML Model Optimization                       │
+│  🔬 Computer Vision & Real-time Processing                          │
+│  🌐 Microservices Architecture & Cloud Computing                    │
+│  📊 Big Data Processing & Analytics                                 │
+│  🔐 Security & Performance Optimization                             │
+└─────────────────────────────────────────────────────────────────────┘
+<div> <img src="https://img.shields.io/badge/Advanced%20DSA-FF6B6B?style=flat-square&logoColor=white" alt="DSA"/> <img src="https://img.shields.io/badge/AI%20Optimization-667eea?style=flat-square&logoColor=white" alt="AI"/> <img src="https://img.shields.io/badge/Cloud%20Computing-FFA500?style=flat-square&logoColor=white" alt="Cloud"/> <img src="https://img.shields.io/badge/System%20Design-4ECDC4?style=flat-square&logoColor=white" alt="System Design"/> <img src="https://img.shields.io/badge/DevOps-2E8B57?style=flat-square&logoColor=white" alt="DevOps"/> </div> </div>
+🏆 Achievements & Milestones
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  👑  Class Representative  — CSE AI/ML @ VIT Pune               │
-│  🏅  DIPEX Technical Exhibition — ANPR Project Presenter        │
-│  🎯  Core Committee & Project Area Head — ITSA Event            │
-│  💼  React Intern — iGAP Technologies                           │
-│  🌐  Software Dev Intern — Maxgen Technologies                  │
-│  📈  Academic: 93.72% Diploma | Sem 6: 94% | Current Sem PT: 9.3│
-└─────────────────────────────────────────────────────────────────┘
-```
-
+Code
+╔═══════════════════════════════════════════════════════════════════════╗
+║                      🌟 ACHIEVEMENTS SHOWCASE 🌟                      ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║  👑  Class Representative - CSE AI/ML (VIT Pune)                     ║
+║  🏅  DIPEX Technical Exhibition - ANPR Project Presenter             ║
+║  🎯  Core Committee & Project Area Head - ITSA Events                ║
+║  💼  React Intern - iGAP Technologies                                ║
+║  🌐  Software Development Intern - Maxgen Technologies               ║
+║  📈  Academic Excellence:                                            ║
+║      • Diploma in IT: 93.72% ⭐                                      ║
+║      • Semester 6: 94% 🎖️                                           ║
+║      • Current Semester: 9.3 CGPA 🏆                                 ║
+║  🚀  Direct Second Year Admission through Merit                      ║
+╚═══════════════════════════════════════════════════════════════════════╝
 </div>
-
----
-
-
-## 🌱 Currently Learning
-
+📚 Latest Learning & Growth
 <div align="center">
-
-![DSA](https://img.shields.io/badge/Advanced%20DSA-FF6B6B?style=flat-square&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-4ECDC4?style=flat-square&logoColor=white)
-![AI Optimization](https://img.shields.io/badge/AI%20Model%20Optimization-A78BFA?style=flat-square&logoColor=white)
-![Scalable Backend](https://img.shields.io/badge/Scalable%20Backends-F59E0B?style=flat-square&logoColor=white)
-
+"Excellence is not a destination, it's a continuous journey of learning and innovation."
+Code
+Courses & Certifications in Progress:
+├── 🎓 Advanced Data Structures & Algorithms (LeetCode)
+├── 🤖 Deep Learning Specialization (In Progress)
+├── 🔬 Computer Vision Mastery Program
+├── ☁️ AWS Cloud Architecture (Upcoming)
+└── 🚀 System Design & Scalability (Advanced)
 </div>
-
----
-
-## 📫 Connect With Me
-
+💬 Let's Connect!
 <div align="center">
+Looking to collaborate on AI/ML projects, full-stack solutions, or innovative ideas? Let's build something amazing together! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bramha%20Gulavani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bramha-vinayak-gulavani-31302a30b/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bramhagulavani@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bramhagulavani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bramhagulavani)
+<a href="https://www.linkedin.com/in/bramha-vinayak-gulavani-31302a30b/" target="_blank"> <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:bramhagulavani@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/SEND%20ME%20AN%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/bramhagulavani" target="_blank"> <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div>
+<div align="center"> <!-- Footer Animation --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:667eea&height=120&section=footer&reverseDirection=true"/> <!-- Profile Footer Quote -->
+Making an impact through intelligent technology, one line of code at a time. 💎
 
-</div>
-
----
-
-> *"Build systems that solve real-world problems and create impact through intelligent technology."*
-> — **Bramha Vinayak Gulavani**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</div>
+<img src="https://img.shields.io/badge/Last%20Updated-March%202026-667eea?style=flat-square" alt="Last Updated"/> </div> ```
