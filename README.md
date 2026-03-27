@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:667eea,100:f093fb&height=230&section=header&text=Bramha%20Vinayak%20Gulavani&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=🤖%20AI%2FML%20Engineer%20·%20🌐%20Full-Stack%20Developer%20·%20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:667eea,100:f093fb&height=230&section=header&text=Bramha%20Vinayak%20Gulavani&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=🤖%20AI%2FML%20Engineer%20·%20🌐%20Full-Stack%20Developer%20%20&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+AI+Systems+That+Matter+%F0%9F%A4%96;Full-Stack+Developer+%40+VIT+Pune+%F0%9F%8C%90;Diploma+in+IT+%E2%80%94+93.72%25+%F0%9F%8F%86;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
