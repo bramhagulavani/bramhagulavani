@@ -117,15 +117,6 @@ class BramhaGulavani:
 <img src="https://streak-stats.demolab.com?user=bramhagulavani&theme=transparent&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea&sideLabels=667eea&dates=aaaaaa&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 <br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bramhagulavani&theme=github_dark" alt="Contribution Overview" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bramhagulavani&theme=github_dark" alt="Repos per Language" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bramhagulavani&theme=github_dark" alt="Most Commit Language" />
-
 </div>
 
 ## 💬 Let's Connect
