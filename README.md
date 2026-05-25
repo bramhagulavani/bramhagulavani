@@ -1,24 +1,3 @@
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:667eea,100:f093fb&height=230&section=header&text=Bramha%20Vinayak%20Gulavani&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=🤖%20AI%2FML%20Engineer%20·%20🌐%20Full-Stack%20Developer%20%20&animation=fadeIn" />
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+AI+Systems+That+Matter+%F0%9F%A4%96;Full-Stack+Developer+%40+VIT+Pune+%F0%9F%8C%90;Diploma+in+IT+%E2%80%94+93.72%25+%F0%9F%8F%86;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<!-- Social Badges -->
-<a href="https://www.linkedin.com/in/bramha-vinayak-gulavani-31302a30b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/VIT%20Pune-CSE%20AI%2FML-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-9.3%25-10B981?style=for-the-badge&logo=star&logoColor=white"/>
-<br/><br/>
-</div>
-
----
-
 ## 🧠 About Me
 
 <table>
@@ -108,16 +87,6 @@ class BramhaGulavani:
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bramhagulavani&theme=transparent&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea&sideLabels=667eea&dates=aaaaaa&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-<br/>
-</div>
 
 ## 💬 Let's Connect
 
@@ -140,13 +109,5 @@ class BramhaGulavani:
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:302b63,100:0f0c29&height=120&section=footer&reverseDirection=true" />
-
-<sub><i>Making an impact through intelligent technology, one line of code at a time. 💎</i></sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Last%20Updated-March%202026-667eea?style=flat-square&labelColor=0C1117" />
 
 </div>
