@@ -10,7 +10,8 @@ class BramhaGulavani:
         self.name     = "Bramha Vinayak Gulavani"
         self.role     = "AI/ML Engineer & Full-Stack Dev"
         self.uni      = "VIT Pune — CSE (AI/ML)"
-        self.cgpa     = 9.3
+        self.cgpa     = 9.48
+        self.sgpa     = 9.62
         self.diploma  = "93.72%"
         self.sem6     = "94%"
         self.cr       = True
