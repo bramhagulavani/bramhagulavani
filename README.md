@@ -1,3 +1,14 @@
+<div align="center">
+    
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=160&section=header&animation=fadeIn" width="100%"/>
+<!-- Quote -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&width=700&lines=%22Every+expert+was+once+a+beginner.%22;%22Every+pro+was+once+an+amateur.%22" alt="Typing Quote" />
+</a>
+<br/>
+</div>
+---
+
 ## 🧠 About Me
 
 <table>
