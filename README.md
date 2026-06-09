@@ -56,7 +56,7 @@ class BramhaGulavani:
 | 💼 Internship | React Intern @ iGAP Technologies |
 | 🌐 Intern at | Software Dev @ Maxgen Technologies |
 | 📈 Diploma IT | 93.72% — Top Performer |
-| 🎖️ Semester 6 | 94% — Academic Excellence |
+| 🎖️ Second Year | 9.48 — Academic Excellence |
 | 🚀 Admission | Direct 2nd Year via Merit |
 
 </td>
