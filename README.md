@@ -69,7 +69,7 @@ class BramhaGulavani:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,php,nextjs,react,nodejs,tailwind,html,mongodb,mysql,opencv,git,github,linux,vscode&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,php,nextjs,react,nodejs,tailwind,html,mongodb,mysql,opencv,git,github,flask,sqlite,linux,vscode&theme=dark&perline=10" />
 
 </div>
 
