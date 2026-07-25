@@ -84,16 +84,20 @@ class BramhaGulavani:
 <br/>
 
 <a href="https://www.linkedin.com/in/bramha-vinayak-gulavani-31302a30b/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-&nbsp;
-<a href="mailto:bramhagulavani@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
 <a href="https://github.com/bramhagulavani" target="_blank">
-  <img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="mailto:bramhagulavani@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://www.instagram.com/yourhandle/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
+<br/><br/>
+
+</div>
 <br/><br/>
 </div>
