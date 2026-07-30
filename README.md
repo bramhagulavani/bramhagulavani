@@ -83,18 +83,13 @@ class BramhaGulavani:
 
 <br/>
 
-<a href="https://www.linkedin.com/in/bramha-vinayak-gulavani-31302a30b/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://github.com/bramhagulavani" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="mailto:bramhagulavani@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://www.instagram.com/yourhandle/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/bramha-vinayak-gulavani-31302a30b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="https://github.com/bramhagulavani" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<a href="mailto:bramhagulavani@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+<a href="https://www.instagram.com/yourhandle/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+
+</p>
 
 <br/><br/>
 
