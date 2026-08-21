@@ -32,7 +32,6 @@ class BramhaGulavani:
         return [
             "🤖 Computer Vision & NLP",
             "🔬 ML Model Optimization",
-            "🚀 Scalable System Design",
             "🌐 Full-Stack Web Solutions",
             "☁️ Cloud & DevOps Practices",
         ]
