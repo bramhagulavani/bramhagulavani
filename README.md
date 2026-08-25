@@ -55,9 +55,6 @@ class BramhaGulavani:
 
 <br/>
 
-> 🧠 *Currently obsessed with:*
-> `CV` · `NLP` · `System Design` · `Full-Stack` · `DevOps`
-
 </td>
 </tr>
 </table>
