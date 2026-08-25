@@ -74,7 +74,7 @@ class BramhaGulavani:
 
 ---
 
-## 💬 Let's Connect
+## 💬 Fine Me
 
 <div align="center">
 
